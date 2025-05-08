@@ -139,6 +139,24 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.16.0"
+  package_a:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: main
+      resolved-ref: "722623e02ceb2f48690cae302b8042b9808a5152"
+      url: "https://github.com/joginderunico/package_a"
+    source: git
+    version: "1.0.0+1"
+  package_b:
+    dependency: transitive
+    description:
+      path: "."
+      ref: main
+      resolved-ref: "04b59fa40967597beffb0f087dc1ac4f281a9310"
+      url: "https://github.com/joginderunico/package_b"
+    source: git
+    version: "1.0.0+1"
   path:
     dependency: transitive
     description:

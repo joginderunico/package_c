@@ -35,9 +35,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   get:
-  package_c:
+  package_a:
     git:
-      url: https://github.com/joginderunico/package_c
+      url: https://github.com/joginderunico/package_a
       ref: main
 
 dev_dependencies:
